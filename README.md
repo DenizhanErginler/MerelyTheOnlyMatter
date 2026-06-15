@@ -104,7 +104,7 @@ The source code is licensed under MIT, allowing free use, modification, and dist
 We are committed to expanding Merely The Only Matter with:
 
 - Additional chapters and story depth
-- More complex puzzle mechanics
+- More complex puzzle mechanics 
 - Enhanced graphics and animations
 - Localization to additional languages
 - Community-driven features
