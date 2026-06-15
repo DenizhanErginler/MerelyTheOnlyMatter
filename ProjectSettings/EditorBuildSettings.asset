@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/OpeningVideo.unity
+    guid: c760b1476365247b48404658695cd995
+  - enabled: 1
+    path: Assets/Scenes/Prologue.unity
+    guid: 05494cf126acf4f42a9ef8c16d79a59c
+  - enabled: 1
+    path: Assets/Scenes/Chapter1.unity
+    guid: ab7698a80932048c68353fe5c2a60715
+  - enabled: 1
+    path: Assets/Scenes/Chapter2.unity
+    guid: 51fa7b7f58e7f4eb899c0568a0fbc692
+  - enabled: 1
+    path: Assets/Scenes/Crossword.unity
+    guid: 6f10e13c0ae314b4ea912be49024ae6e
+  - enabled: 1
+    path: Assets/Scenes/PrologueEnding.unity
+    guid: 1b977379915084eaa902483c6ca729ff
+  - enabled: 1
+    path: Assets/Scenes/Crossword2.unity
+    guid: 848b1f18fab1843b7a0ce53dfce09571
+  m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
