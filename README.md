@@ -7,9 +7,11 @@ A point-and-click puzzle adventure game where information is power and secrets d
 **Merely The Only Matter** is a narrative-driven puzzle game set in a dystopian future (21XX) where the government has cut all information exchange through "ANA MAKİNE" (The Main Machine). Follow Beatrice's journey as she searches for forbidden knowledge hidden in the forest by her family.
 
 ### Story
+
 Fifty years ago, the government severed all ties to information. Beatrice's family hid books in the forest to preserve knowledge. Now, following a map left by her ancestors, Beatrice must solve puzzles and uncover the truth.
 
 ### Features
+
 ✨ **Engaging Dialogue System** - Character-driven storytelling with multiple perspectives
 🧩 **Interactive Puzzles** - Crossword challenges and word games to unlock secrets
 🎨 **Beautiful Visuals** - Hand-drawn art style with immersive environments
@@ -17,11 +19,13 @@ Fifty years ago, the government severed all ties to information. Beatrice's fami
 🎵 **Atmospheric Soundtrack** - Original music to enhance gameplay
 
 ## 🏆 Game Jam Winner
+
 **2nd Place** - HSD Okan Game Jam 2026
 *Developed by: Sleepy Whiskers Team*
 
 ## 🎮 Play Now
-Download and play on **[Itch.io]([https://denizhanerg.itch.io/merelytheonlymatter])**
+
+Download and play on **[Itch.io](https://denizhanerg.itch.io/merelytheonlymatter)**
 
 ## 🛠️ Technical Details
 
@@ -74,12 +78,14 @@ Assets/
 ## 👥 Team
 
 **Sleepy Whiskers Team**
+
 - **Denizhan Erginler** - Development & Programming
 - **Elif Sude Koç** - Art & Character Design, Story & Dialogue
 
 ## 🙏 Special Thanks
 
 We would like to extend our gratitude to:
+
 - **HSD Okan** - For organizing the Game Jam
 - **Kaan Can Yılmaz** - Jury Member
 - **Necati Akpınar** - Jury Member
@@ -95,7 +101,8 @@ The source code is licensed under MIT, allowing free use, modification, and dist
 
 ## 🚀 Future Development
 
-We are committed to expanding Beatrice with:
+We are committed to expanding Merely The Only Matter with:
+
 - Additional chapters and story depth
 - More complex puzzle mechanics
 - Enhanced graphics and animations
@@ -105,8 +112,10 @@ We are committed to expanding Beatrice with:
 ## 📧 Contact & Feedback
 
 Have feedback or questions? We'd love to hear from you!
-- **Itch.io Page:** [Merely The Only Matter]([https://itch.io](https://denizhanerg.itch.io/merelytheonlymatter))
-- **LinkedIn Profiles:** [Denizhan Erginler]([https://linkedin.com](https://www.linkedin.com/in/denizhanerginler/)) [Elif Sude Koç]([https://linkedin.com](https://www.linkedin.com/in/elifsudekoc/))
+
+- **Game:** [Play on Itch.io](https://denizhanerg.itch.io/merelytheonlymatter)
+- **Denizhan's LinkedIn:** [linkedin.com/in/denizhanerginler](https://www.linkedin.com/in/denizhanerginler/)
+- **Elif's LinkedIn:** [linkedin.com/in/elifsudekoc](https://www.linkedin.com/in/elifsudekoc/)
 
 ---
 
